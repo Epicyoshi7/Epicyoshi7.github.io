@@ -49,16 +49,19 @@ SVG Presentation Attributes:
 }
 
 .shoe {
+    fill: black;
 }
 
 .left {
+    fill: tan;
 }
 
 .right {
+    fill: tan;
 }
 
 #head {
-
+    fill: tan;
 }
 
 #right-eye {
@@ -70,6 +73,7 @@ SVG Presentation Attributes:
 }
 
 #neck {
+    fill: tan;
 }
 
 #shirt {
