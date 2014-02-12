@@ -80,6 +80,7 @@ SVG Presentation Attributes:
 }
 
 #mouth {
+    fill: rgb(255, 0, 0)
 }
 
 #pants {
